@@ -1,3 +1,3 @@
-School: HTL
-Name: Lukas D.
-Class: 1 LIT
+* School: HTL
+* Name: Lukas D.
+* Class: 1 LIT
